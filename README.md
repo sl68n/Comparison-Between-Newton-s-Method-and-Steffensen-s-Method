@@ -1,7 +1,7 @@
 # Comparison Between Newton’s Method and Steffensen’s Method
 
+![Course](https://img.shields.io/badge/Course-CPCS%20212-blue)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023a+-orange)
-![Course](https://img.shields.io/badge/Course-Numerical%20Methods-blue)
 ![Convergence](https://img.shields.io/badge/Convergence-Quadratic-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
